@@ -17,27 +17,6 @@ function Widgets() {
         frameBorder='0'
         allow='encrypted-media'
       ></iframe>
-
-      {/* <iframe
-        // src='https://www.universalstudioshollywood.com/web/en/us/things-to-do/events-and-seasonal-activities/holidays-at-universal-studios-hollywood'
-        src='https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fchrishemsworth%2Fvideos%2F270875721676472%2F&show_text=false&width=476&t=0'
-        width='476'
-        height='476'
-        style='border:none;overflow:hidden'
-        scrolling='no'
-        frameborder='0'
-        allowfullscreen='true'
-        allow='autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share'
-        allowFullScreen='true'
-        width='270'
-        height='100%'
-        frameborder='0'
-        style={{ border: "none", overflow: "hidden" }}
-        scrolling='no'
-        allowTransparency='true'
-        frameborder='0'
-        allow='encrypted-media'
-      ></iframe> */}
     </div>
   );
 }
